@@ -1,36 +1,39 @@
-# README Generator
-    ---
+
+  # README generator
   
-    ![MIT](https://img.shields.io/badge/license-MIT-green)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
-    ## Description
-    generate a readme.md file in the terminal using node.js
+  ## Description
   
-    ## Table of Contents
-    1. [Installation](#installation)
-    2. [Usage](#usage)
-    3. [License](#license)
-    4. [Contributing](#contributing)
-    5. [Tests](#tests)
-    6. [Questions](#questions)
+  generate a readme.md file in the terminal using node.js
   
-    ## Installation
-    To install the necessary dependencies, run the following command:
-    npm install
+  ## Table of Contents 
   
-    ## Usage
-    open a new terminal with the project in VS code and use the command "node index.js"
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
   
-    ## License 
-    This project is licensed under the MIT license.
+  ## Installation
   
-    ## Contributing
-    
+  To install necessary dependencies, run the following command:
   
-    ## Tests
-    To run tests, run the following command:
-    
+  ```
+  undefined
+  ```
   
-    ## Questions
-    If you have any questions about this repo, open an issue or contact me directly at [a.turner3x@gmail.com](mailto:a.turner3x@gmail.com). You can find more of my work at [A.Turner3x](https://www.github.com/A.Turner3x).
+  ## Usage
+  
+  open a new terminal with the project in VS code and use the command "node index.js"
+  
+  ## License
+  
+  This project is licensed under the MIT license.
+   
+
+  ## Questions
+  
+  If you have any questions about the repo, open an issue or contact me directly at a.turner3x@gmail.com. You can find more of my work at [undefined](https://github.com/undefined/).
   
