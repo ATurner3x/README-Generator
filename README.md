@@ -35,5 +35,5 @@
 
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at a.turner3x@gmail.com. You can find more of my work at [undefined](https://github.com/undefined/).
+  If you have any questions about the repo, open an issue or contact me directly at a.turner3x@gmail.com. You can find more of my work at https://aturner3x.github.io/My-Portfolio/
   
